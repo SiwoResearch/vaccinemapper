@@ -1,0 +1,47 @@
+Vaccine Candidate,Platform,Developer,Current Current Stage of Development,Antigen,Delivery System,Adjuvants,Delivery Route,Clinical Trials,Location (Clinical Trial),Funder,Sources
+mRNA-1273,mRNA,Moderna/ NIAID,Clinical (Phase I),S,Lipid nanoparticle; mRNA,,Intramuscular,NCT04283461,USA,CEPI,CEPI
+Ad5-nCoV ,Non-replicating viral vector,CanSino Biologicals,Clinical (Phase I),S,Adenovirus Type 5 Vector,,Intramuscular,NCT04313127,China,,CEPI
+INO-4800,DNA plasmid,Inovio Pharmaceuticals,Clinical (Phase I),S,DNA plasmid; electroporation,,Intradermal ,NCT04336410,USA,CEPI,CEPI
+LV-SMENP-DC,Dendritic Cells; Cytotoxic T Lymphocytes (CTLs);,Shenzhen Geno-Immune Medical Institute,Clinical (Phase I/II),S;M;E;N;P,DCs expressing SMENP viral antigens; CTLs,,Subcutaneous; Intravenous,NCT04276896,China,,CEPI
+Pathogen-specific aAPC,Artificial Antigen Presenting Cells (aAPCs) ,Shenzhen Geno-Immune Medical Institute,Clinical (Phase I),S;M;E;N;P,aAPCs expressing viral antigens and immunomodulatory molecules  introduced using lentiviral vector ,,Subcutaneous,NCT04299724,China,,CEPI
+ChAdOx1 nCoV-19,Non-replicating viral vector,University of Oxford,Clinical (Phase I/II),S,Adenovirus vector,,Intramuscular,NCT04324606,United Kingdom,CEPI,Milken Institute/ Wikipedia
+DNA,DNA,Takis/Applied DNA Sciences/Evvivax ,Pre-clinical,,,,,,,,WHO
+DNA plasmid vaccine ,DNA ,Zydus Cadila,Pre-clinical,,,,,,,,WHO
+Formaldehyde inactivated + alum,Inactivated ,Sinovac,Pre-clinical,,Formaldehyde inactivated + alum,,,,,,WHO
+Deoptimized live attenuated vaccines,Live Attenuated Virus,Codagenix/Serum Institute of India,Pre-clinical,,Live Attenuated Virus,,,,,,WHO
+MVA encoded VLP,NonReplicating Viral Vector,GeoVax/BravoVax,Pre-clinical,,Modified Vaccinia Ankara (MVA),,,,,,WHO
+Ad26 (alone or with MVA boost),NonReplicating Viral Vector,Janssen Pharmaceutical Companies,Pre-clinical,,Adenovirus type 26 (alone or with MVA boost),,,,,,WHO
+NonReplicating Viral Vector,NonReplicating Viral Vector,Altimmune ,Pre-clinical,S,adenovirus based NasoVAX,,,,,,WHO
+Ad5 S GREVAX Platform,NonReplicating Viral Vector,Greffex,Pre-clinical,S,Adenovirus type 5 (GREVAX™ platform),,,,,,WHO
+Oral Vaccine platform,NonReplicating Viral Vector,Vaxart ,Pre-clinical,Multiple,Oral Vaccine platform,,Oral,,,,WHO
+Drosophila S2 insect cell expression system VLPs,Protein Subunit, ExpreS2ion ,Pre-clinical,,AdaptVac universal viral Capsid-Like Particle (CLP) ,,,,,EU Horizon 2020,WHO
+S protein ,Protein Subunit,WRAIR/USAMRIID,Pre-clinical,S,,,,,,,WHO
+S-Trimer ,Protein Subunit,Clover Biopharmaceuticals Inc./GSK,Pre-clinical,S-Trimer,,GSK pandemic adjuvant - AS03?,,,,,WHO
+Peptide ,Protein Subunit,Vaxil Bio,Pre-clinical,,,,,,,,WHO
+S protein,Protein subunit,AJ Vaccines,Pre-clinical,S,,,,,,,WHO
+Ii-Key peptide ,Protein Subunit,Generex/EpiVax ,Pre-clinical,,,li-key peptide,,,,,WHO
+S protein,Protein subunit,EpiVax/Univ. of Georgia,Pre-clinical,S,,,,,,,WHO
+S protein (baculovirus production),Protein Subunit,Sanofi Pasteur,Pre-clinical,S,,,,,,Biomedical Advanced Research and Development Authority (BARDA),Milken Institute
+NVX-CoV2373,Protein Subunit,Novavax/Emergent BioSolutions ,Pre-clinical,S-Trimer,Nanoparticle,Matrix-M adjuvant,,,,CEPI,WHO
+gp-96 backbone,Protein subunit,Heat Biologics/Univ. Of Miami,Pre-clinical,Multiple,,,,,,,WHO
+Molecular clamp stabilized Spike protein,Protein Subunit,University of Queensland/GSK,Pre-clinical,S,,,,,,,WHO
+S1 or RBD protein,Protein Subunit,Baylor College of Medicine,Pre-clinical ,S1 or Receptor Binding Domain (RBD),,,,,,,WHO
+"Subunit protein, plant produced",Protein Subunit,iBio/CC-Pharming ,Pre-clinical,,Virus-Like Particle (VLP),,,,,,WHO
+Subunit ,Protein Subunit,"VIDO-InterVac, University of Saskatchewan",Pre-clinical,,,,,,,,WHO
+Adjuvanted microsphere peptide,Protein Subunit,University of Saskatchewan,Pre-clinical,,,,,,,,WHO
+Replicating Viral Vector,Replicating Viral vector,Zydus Cadila ,Pre-clinical,,Live Attenuated Recombinant Measles virus,,,,,,WHO
+Measles Vector,Replicating Viral vector,Institute Pasteur/Themis/Univ. of Pittsburg Center for Vaccine Research,Pre-clinical,,Live Attenuated Recombinant Measles virus,,,,,CEPI,WHO
+Horsepox vector expressing S protein,Replicating Viral Vector,Tonix Pharma/Southern Research,Pre-clinical,S,Horsepox vector,,,,,,WHO
+ LNP encapsulated mRNA cocktail encoding RBD,mRNA,Fudan University/ Shanghai JiaoTong University/RNA Cure Biopharma,Pre-clinical,,Lipid Nanoparticle (LNP),S; Receptor Binding Domain),,,,,Milken Institute
+LNP encapsulated mRNA cocktail encoding VLP,mRNA,Fudan University/ Shanghai JiaoTong University/RNACure Biopharma,Pre-clinical,,LNP encapsulated mRNA cocktail encoding VLP,,,,,,
+mRNA,mRNA,China CDC/Tongji University/Stermina,Pre-clinical,,,,,,,,
+mRNA ,mRNA,Arcturus/Duke-NUS ,Pre-clinical,,LNP; Lipid-enabled and Unlocked Nucleomonomer Agent modified RNA (LUNAR),,,,,,
+BNT162,mRNA,BioNTech/Fosun Pharma/Pfizer,Pre-clinical,,,,,,,,
+saRNA ,saRNA,Imperial College London,Pre-clinical,,,,,,,,
+mRNA,mRNA,CureVac,Pre-clinical,,,,,,,CEPI,
+Plant-derived VLP,VLP,Medicago,Pre-clinical,,Virus-Like Particle (VLP),,,,,,
+Replicating viral vector,Replicating viral vector,The University of Hong Kong,Pre-clinical,S; Receptor Binding Domain (RBD),Live Attenuated Influenza Virus (LAIV),,,,,CEPI,Milken Institute
+Antibodies,Antibodies,ImmunoPrecise Antibodies,Pre-clinical,,,,,,,,
+,,MIGAL Galilee Research Institute,Pre-clinical,,,,,,,,
+,,Doherty Institute ,Pre-clinical,,,,,,,,
+,,Tulane University,Pre-clinical,,,,,,,,
