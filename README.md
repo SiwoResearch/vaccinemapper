@@ -1,3 +1,3 @@
 # COVID-19 Vaccines Knowledge base
 
-Never before in the history of vaccines has so many vaccine candidates been proposed for a single disease. 
+There are more than 100 vaccine candidates for COVID-19 in development. The Vaccine Mapper project is collating public information on COVID-19 vaccines aggregated from various sources and annotated to inform both the scientific community and the public on vaccine progress, provide new knowledge on the associations between vaccine components and immmunoloigical outcomes, enhance collaboration between vaccine developers, and help identify gaps in vaccine development. 
